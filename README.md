@@ -46,6 +46,6 @@ Int tipo elementų įrašymas    | 0  | 0.001994 | 0.013963  |  0.159544  |   1.
 ### Vector 27 kartus
 
 ## 4. Programos veikimo laikas su 100000 failu
-std::vector 1.14353
-Vector 1.0799
+### std::vector 1.14353
+### Vector 1.0799
 
